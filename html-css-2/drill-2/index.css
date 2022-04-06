@@ -1,0 +1,18 @@
+.shapes{
+    width: 98%;
+    height: 500px;
+    border: 5px solid black;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: -8vh;
+    top: 18px;
+}
+
+#box1{ 
+    position: relative;
+    background-color: beige;
+    width: 50px;
+    height: 50px;
+    left: 40%;
+}
